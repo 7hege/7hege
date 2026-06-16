@@ -6,9 +6,7 @@ Full stack developer
 </p>
 </font>
 </h1>
-<a href="https://jrchew15.github.io">
-<img height=28 src="./markup-cropped.svg"/>
-</a>
+
 <a href="https://www.linkedin.com/in/jason-r-chew">
 <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/>
 </a>
